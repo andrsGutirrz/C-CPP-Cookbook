@@ -1,7 +1,7 @@
  #include <iostream>
  using namespace std;
 
-// We are going to work with them for the rest of our lives as well in this repo!
+// IMPORTANT!! We are going to work with them for the rest of our lives as well in this repo!
 int main(){
   //FOR LOOP
   /*
