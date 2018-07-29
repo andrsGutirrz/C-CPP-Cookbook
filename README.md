@@ -21,6 +21,11 @@
         <li>Do while</li>
         <li>For each</li>
     </ul>
+    <li>Conditionals</li>
+    <ul>
+        <li>if/else</li>
+        <li>ternary operator</li>
+    </ul>
     <li>Vectors statics</li>
     <li>Matrix</li>
     <li><strong>Functions</strong></li>
